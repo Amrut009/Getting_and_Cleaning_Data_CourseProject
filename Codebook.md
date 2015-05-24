@@ -50,6 +50,15 @@ There are 5 parts:
 * Use descriptive activity names to name the activities in the data set
 * Appropriately label the data set with descriptive activity names.
 * Create a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+## Running the run_analysis.R script
+* create a directory on your local machine where you would like to clone the repository
+* change directory into what you created in #1
+* clone this repository : git clone https://github.com/Amrut009/Getting_And_Cleaning_Data_CourseProject
+* change directory into the Getting_And_Cleaning_Data_CourseProject directory
+* start R from the command line
+* source("run_analysis.R")
+
 ## How run_analysis.R implements the above steps:
 
 * Require reshapre2 and data.table librareis.
