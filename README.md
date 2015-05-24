@@ -29,6 +29,14 @@ As per te project we need to create an R script called run_analysis.R that can d
 * Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
 * The new file tiny_data.txt is the required text file with tidy data
 
+## Running the run_analysis.R script (in detail)
+* create a directory on your local machine where you would like to clone the repository
+* change directory into what you created in #1
+* clone this repository : git clone https://github.com/Amrut009/Getting_And_Cleaning_Data_CourseProject
+* change directory into the Getting_And_Cleaning_Data_CourseProject directory
+* start R from the command line
+* source("run_analysis.R")
+
 ##Dependencies
 
 run_analysis.R file will help you to install the dependencies automatically. It depends on 
